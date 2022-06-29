@@ -10,17 +10,19 @@ body{
 
 p{
     color: white;
-    font-size: 24px;
+    font: 400 16px/16px 'ProximaNova-Regular', sans-serif;
 }
 
 .menu{
+    padding: 20px 112px;
+
     display: flex;
     align-items: flex-start;    
-    gap: 80px;
+    gap: 40px;
 }
 
 
-.cheesecake-factory-logo{
-    height: 120px;
+.logo-tcf{
+    height: 88px;
 }
 
