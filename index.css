@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: white;
+    font: 400 16px/16px 'ProximaNova-Regular', sans-serif;
+}
+
+.content-container{
+    display: flex;
+    margin: 0px auto;
+    background-color: black;
+
+    padding: 0px 3em;
+}
+

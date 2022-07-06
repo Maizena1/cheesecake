@@ -1,0 +1,33 @@
+.footer{
+    display: flex;
+    background-color: #31100a;
+}
+
+.footer p{
+    color: #bd945b;;
+}
+
+.social-network-icon{
+    width: 40px;
+    height: 40px;
+}
+
+.footer-copyright-info{
+    font: 400 14px/14px 'ProximaNova-Regular', sans-serif;
+    height: 14px;
+    text-align: left;
+}
+
+.footer-contact-about-content{    
+    display: flex;
+    align-items: center;
+    
+}
+
+.footer-contact-about-content .span{
+    
+    width: 1px;
+    height: 12px;
+    background-color: #bd945b;
+
+}

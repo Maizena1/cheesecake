@@ -1,0 +1,16 @@
+.header{
+    height: 100vh;
+    padding: 20px 0px;
+
+    display: flex;
+    align-items: flex-start;   
+    
+    margin: 0px auto; 
+    gap: 40px;
+}
+
+
+.logo-tcf{
+    height: 88px;
+}
+
