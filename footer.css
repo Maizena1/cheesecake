@@ -1,10 +1,25 @@
-.footer{
-    display: flex;
+.footer-container{
     background-color: #31100a;
+
+    
+    min-height: 132px;
+    height: auto;
+    display: flex;
+    
+    padding: 0px 3em;
+
 }
 
-.footer p{
-    color: #bd945b;;
+.footer-container p{
+    color: #bd945b;
+}
+
+.footer-content{
+    display: flex;
+    margin: auto auto;
+
+    gap: 80px;
+    
 }
 
 .social-network-icon{
@@ -14,20 +29,44 @@
 
 .footer-copyright-info{
     font: 400 14px/14px 'ProximaNova-Regular', sans-serif;
-    height: 14px;
-    text-align: left;
+    
+
+    margin-top: 8px;
+    
 }
 
-.footer-contact-about-content{    
+.footer-contact-about{
+    max-width: 748px;
+    
+    
+}
+
+.footer-contact-about-content{
+    
     display: flex;
     align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
     
+}
+
+.footer-contact-about-content a{
+    
+    font: 400 14px/14px 'ProximaNova-Regular', sans-serif;
+    height: 14px;
+    font-weight: 700;
+    color: #bd945b;
 }
 
 .footer-contact-about-content .span{
-    
     width: 1px;
     height: 12px;
     background-color: #bd945b;
 
+}
+
+.footer-social-network-content{
+    display: flex;
+    gap: 20px;
+    
 }

@@ -4,16 +4,31 @@
     padding: 0;
 }
 
+.content-container{
+    background-color: black;
+
+}
+
 p{
     color: white;
     font: 400 16px/16px 'ProximaNova-Regular', sans-serif;
+
 }
 
-.content-container{
-    display: flex;
-    margin: 0px auto;
-    background-color: black;
+.dot{
+    width: 11px;
+    height: 11px;
 
-    padding: 0px 3em;
+    border-radius: 50%;
+    border: 2px solid white;
+    
+    background-color: transparent;
+    opacity: 0.5;
+
+    cursor: pointer;
+
 }
+
+
+
 

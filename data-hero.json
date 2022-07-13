@@ -1,0 +1,32 @@
+[
+    {
+        "title":"",
+        "subtitle":"",
+        "button":""
+    },
+    {
+        "title":"HAZ TU RESERVACIÓN",
+        "subtitle":"A partir de ahora puedes reservar en cualquiera de nuestros restaurantes ¡Te esperamos!",
+        "button":"RESERVA AHORA"
+    },
+    {
+        "title":"CELEBRA CON NOSOTROS",
+        "subtitle":"Te esperamos en Plaza Satélite, Perisur, Centro Santa Fe, Parque Delta, Galerías Guadalajara & Punto Valle.        ",
+        "button":"VER UBICACIONES"
+    },
+    {
+        "title":"FANTÁSTICO BRUNCH",
+        "subtitle":"Te esperamos todos los fines de semana de la apertura a las 2:00 pm",
+        "button":"VER MENU"
+    },
+    {
+        "title":"CHEESECAKES",
+        "subtitle":"Más de 30 cheesecakes en el menú, ¿ya los conoces?",
+        "button":"VER MAS"
+    },
+    {
+        "title":"",
+        "subtitle":"",
+        "button":""
+    }
+]

@@ -9,6 +9,13 @@
     gap: 40px;
 }
 
+.header-container{
+    display: flex;
+    margin: 0px auto;
+
+    padding: 0px 3em;
+}
+
 
 .logo-tcf{
     height: 88px;
