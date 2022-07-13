@@ -4,9 +4,22 @@
     padding: 0;
 }
 
+h1{
+    color: #fff8ed;
+    text-shadow: rgb(0 0 0 / 30%) 0 1px 2px;
+    font: 700 46px/50px 'ProximaNova-Bold', sans-serif;
+}
+
+h2{
+    color: #fff8ed;
+    margin: 10px 0 0;
+    text-shadow: rgb(0 0 0 / 30%) 0 1px 2px;
+    font: 600 19px/23px 'ProximaNova-Regular', sans-serif;
+}
+
 .content-container{
     background-color: black;
-
+    position: relative;
 }
 
 p{
@@ -14,6 +27,11 @@ p{
     font: 400 16px/16px 'ProximaNova-Regular', sans-serif;
 
 }
+
+
+
+
+
 
 .dot{
     width: 11px;
@@ -29,6 +47,26 @@ p{
 
 }
 
+.highlights-button{
+    height: 40px;
+    width: 300px;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 700;
+    color:#880d53;
+    opacity: 0.9;
+    
+    margin-top: 32px;
+}
 
+.highlights-button:hover{
+    background-color: #880d53;
+    color: white;
+}
+
+.highlights-dots{
+    display: flex;
+    gap: 8px;
+}
 
 
