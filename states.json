@@ -1,0 +1,19 @@
+[
+    {
+        "state":"Jalisco",
+        "status":"enable"
+    },
+    {
+        "state":"CDMX",
+        "status":"enable"
+    },
+    {
+        "state":"Sinaloa",
+        "status":"enable"
+    },
+    {
+        "state":"Oaxaca",
+        "status":"enable"
+    }
+    
+]

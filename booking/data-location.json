@@ -2,27 +2,32 @@
     {
         "name": "The Cheesecake 1",
         "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Jalisco",
-        "tel": "123123123"
+        "tel": "123123123",
+        "state":"Jalisco"
     },
     {
         "name": "The Cheesecake 2",
-        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Jalisco",
-        "tel": "23432"
+        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, CDMX",
+        "tel": "23432",
+        "state":"CDMX"
     },
     {
         "name": "The Cheesecake 3",
-        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Jalisco",
-        "tel": "52234234"
+        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Sinaloa",
+        "tel": "52234234",
+        "state":"Sinaloa"
     },
     {
-        "name": "The Cheesecake 3",
-        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Jalisco",
-        "tel": "52234234"
+        "name": "The Cheesecake 4",
+        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Oaxaca",
+        "tel": "52234234",
+        "state":"Oaxaca"
     },
     {
-        "name": "The Cheesecake 3",
-        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Jalisco",
-        "tel": "52234234"
+        "name": "The Cheesecake 5",
+        "location": "Rafael Sanzio No. 150 Locales IS3-1 e IS3-2, Col. Residencial La Estancia, C.P. 45030, Zapopan, Oaxaca",
+        "tel": "52234234",
+        "state":"Oaxaca"
     }
 
 ]
