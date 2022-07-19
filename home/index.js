@@ -3,7 +3,6 @@ const dotsFragment = document.createDocumentFragment();
 const Highlights = document.getElementById("highlights");
 const HighlightsDots = document.getElementById("highlights-dots");
 
-let currentHeroIndex = 0;
 
 const loadData = async () => (await fetch("../data-hero.json")).json();
 
