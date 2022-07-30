@@ -20,8 +20,6 @@ async function initState(){
         const option = document.createElement("option")
         option.textContent = item.state
         optionStateFragment.appendChild(option)
-
-        
         
     })
     

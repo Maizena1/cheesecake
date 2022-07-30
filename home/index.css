@@ -17,8 +17,8 @@ h2{
 .content-container{
     
     height: 100vh;
+    width: 100%;
     background-color: black;
-    position: relative;
 }
 
 p{
