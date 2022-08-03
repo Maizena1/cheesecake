@@ -1,0 +1,31 @@
+.select-date-container{
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.select-date-container > select{
+    width: 160px;
+    height: 28px;
+    color: #495057;
+    border-radius: 3px;
+    border-color: rgb(219, 220, 221);
+}
+
+.date-description{
+    text-align: center;
+    font-size: small;
+    color: #6c757d;
+    margin-bottom: 16px;
+}
+
+.reserve-button{
+    height: 28px;
+    width: 100%;
+    background-color: #dc3545;
+    border:none ;
+    border-radius: 3px;
+    color: white;
+}
+
+

@@ -4,19 +4,20 @@
         <title>RESERVACION</title>
     </head>
 
-    <link href="../home/index.css" rel="stylesheet" type="text/css">
-    <link href="../header.css" rel="stylesheet" type="text/css">
+    
+    <link href="../../home/index.css" rel="stylesheet" type="text/css">
+    <link href="../../header.css" rel="stylesheet" type="text/css">
 
-    <link href="booking.css" rel="stylesheet" type="text/css">
+    <link href="../booking.css" rel="stylesheet" type="text/css">
     
 <body>
     
     <div id="booking-content-container" class="booking-content-container">
         <div class="header-container header-booking">
 
-            <div class="header ">
+            <div class="header">
                 <div>
-                    <img class="logo-tcf" src="../assets/images/logo-tcf.svg"></img>
+                    <img class="logo-tcf" src="../../assets/images/logo-tcf.svg"></img>
                 </div>
                 
                 <div class="header-option">
@@ -58,18 +59,17 @@
                     <h5 class="country-text">Selcciona una sucursal cerca de tu ubicacion</h5>
                 </div>
 
-                <div class="pick-branch-container">
+                <div id="pick-branch-container" class="pick-branch-container">
                     
                     <select id="branch-country-select" class="branch-country-select">
                         <option class="option-state-select">Selecciona una opcion</option>
                     </select>
 
+                    
                     <div class="span-select-branch"></div>
+                   
                         
                     <div id="pick-branch" class="pick-branch"></div>
-                    <div class="position">
-                        <p >Hola</p>
-                    </div>
                     
                 </div>
 
@@ -79,13 +79,8 @@
         
     </div>
 
-  
-    
-    
-
 </body>
-
-<script src="booking.js"></script> 
-<script src="booking-function.js"></script> 
+<script src="./booking-StepOne.js"></script>
+<script src="../booking-MasButton.js"></script> 
 
 </html>
