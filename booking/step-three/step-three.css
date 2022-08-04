@@ -1,0 +1,133 @@
+.branch-name{
+    margin: 32px 0px;
+}
+
+.client-info-section{
+    display: flex;
+    justify-content: center;
+}
+
+.title-client-info-section{
+    text-align: center;
+}
+
+
+
+.booking-info-section-content{
+    padding: 12px 0px;
+}
+
+.booking-info-section{
+    border: 1px solid #dee2e6;
+}
+
+.branch-name{
+    margin-top: 0px;
+}
+
+.check-info-text, .title-client-info-section{
+
+    margin: 40px 0px 16px 0px;
+
+    font-size: 1.1rem;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#branch-name{
+    font-size: 1.1rem;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#branch-name, #branch-location, .booking-person-number{
+    margin-bottom: 8px;
+}
+
+#branch-location, #branch-tel, .booking-info > p {
+    font-size: small;
+    color: #6c757d;
+}
+
+.booking-person-number{
+    font-weight: 600;
+}
+
+.branch-info, .booking-info{
+    padding: 0px 12px;
+    text-align: center;
+}
+
+.span{
+    height: 1px;
+    width: 100%;
+    max-width: 500px;
+    
+    margin: 0px auto;
+    
+    background-color: #dee2e6;
+}
+
+.booking-info-span{
+    margin: 20px 0px;
+    padding: 0px 30px;
+}
+
+.client-info-input-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px 16px;
+
+    margin-bottom: 16px;
+}
+
+.client-info-input{
+    width: 260px;
+    max-width: 280px;
+    height: 28px;
+
+    font-size: 12px;
+    padding: 8px;
+    
+    border: solid 1px;
+    border-radius: 3px;
+    border-color: rgb(219, 220, 221);
+}
+
+.select{
+    font-size: 12px;
+    padding: 0px 4px;
+    color: gray;
+}
+
+.send-info-checkbox{
+    display: flex;
+    gap: 4px;
+
+    margin-bottom: 32px;
+}
+
+.send-info-text{
+    color: black;
+    font-size: 12px;
+}
+
+.reserve-button{
+    width: 72px;
+    height: 32px;
+
+
+    border:none;
+    border-radius: 4px;
+
+    color: white;
+    background-color: #dc3545;
+    
+    cursor: pointer;
+   
+}
+
+.reserve-button-container{
+    display: flex;
+    justify-content: center;
+}
