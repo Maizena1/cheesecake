@@ -12,6 +12,19 @@
     border-color: rgb(219, 220, 221);
 }
 
+.booking-content-container{
+    position: relative;
+    z-index: 2;
+}
+
+
+.hola{
+    position: relative;
+    z-index: 1;
+    color: black;
+    text-align: right;
+    background-color: rebeccapurple;
+}
 
 
 .date-description{

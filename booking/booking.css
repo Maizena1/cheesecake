@@ -125,11 +125,15 @@ body{
     background-color: rgba(165, 15, 15, 0.1);
 }
 
-.booking-content-container-function{
+.booking-content-container-function-on{
     
     position: relative;
-    z-index: 200;
     right: 300px;
+}
+.booking-content-container-function-off{
+    
+    position: relative;
+    right: 0px;
 }
 
 .position{
