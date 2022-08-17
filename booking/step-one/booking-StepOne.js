@@ -89,7 +89,7 @@ async function initBranch(){
 
     for(const button of buttons){
         button.addEventListener(("click"), () => {
-            console.log("Hola")
+            window.location.replace("../step-two/index.html")
         })
     }
        
